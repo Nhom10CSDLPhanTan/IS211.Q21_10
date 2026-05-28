@@ -1,0 +1,2 @@
+# IS211.Q21_10
+Nhóm 10 môn CSDL Phân Tán IS211.Q21
